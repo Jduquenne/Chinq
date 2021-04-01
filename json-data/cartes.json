@@ -1,0 +1,40 @@
+{ "cartes" : [
+    {
+      "nom": "Carte bouftou",
+      "couleur": "#7E85E9",
+      "forme": "normale",
+      "image": "bouftou"
+    },
+    {
+      "nom": "Carte tofu",
+      "couleur": "#3C44B8",
+      "forme": "normale",
+      "image": "tofu"
+    },
+    {
+      "nom": "Carte prespic",
+      "couleur": "#1E2484",
+      "forme": "normale",
+      "image": "prespic"
+    },
+    {
+      "nom": "Carte craqueleur",
+      "couleur": "#27BD66",
+      "forme": "normale",
+      "image": "craqueleur"
+    },
+    {
+      "nom": "Carte pain incarnam",
+      "couleur": "#DA5F19",
+      "forme": "normale",
+      "image": "pain incarnam"
+    },
+    {
+      "nom": "Carte laine bouftou",
+      "couleur": "#CCDF09",
+      "forme": "normale",
+      "image": "laine bouftou"
+    }
+  ]
+}
+
